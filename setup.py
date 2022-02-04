@@ -7,7 +7,7 @@ requirements = []
 
 setup(
     name="PECF",
-    version="1.03.22",
+    version="1.0.23",
     author="Zedikon",
     author_email="mrzedikon@gmail.com",
     description="New easy and accessible configuration language",
