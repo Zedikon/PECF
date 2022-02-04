@@ -14,9 +14,11 @@ Convenience
 # About PECF syntaxys
 let's compare the PECF syntax with JSON:
 
-> PECF: hello: world
+### PECF:
+> hello: world
 
-> JSON: {"hello": "world"}
+### JSON:
+> {"hello": "world"}
 
 I think it's obvious that the PECF code is much more readable and more convenient for humans
 
