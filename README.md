@@ -25,4 +25,4 @@ I think it's obvious that the PECF code is much more readable and more convenien
 
 # Docs
 
-Docs: https://github.com/Zedikon/PECF/wiki/PECF-WIKI-PAGE-(version-1.03.22)
+Docs: https://github.com/Zedikon/PECF/wiki/PECF-WIKI-PAGE-(version-1.0.25)
