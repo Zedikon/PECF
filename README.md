@@ -15,7 +15,7 @@ Convenience
 let's compare the PECF syntax with JSON:
 
 ### PECF:
-> hello: world
+> hello: str: world
 
 ### JSON:
 > {"hello": "world"}
