@@ -18,7 +18,7 @@ let's compare the PECF syntax with JSON:
 > hello: str: world
 
 ### JSON:
-> {"hello": "world"}
+```{"hello": "world"}```
 
 I think it's obvious that the PECF code is much more readable and more convenient for humans
 
